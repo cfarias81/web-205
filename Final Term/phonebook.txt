@@ -1,0 +1,5 @@
+name,number,email
+Mary Anderson,572 932 1921,mary@gmail.com
+Sarah Ahmed,432 123 4321,sarah@gmail.com
+April Apple,509 123 4567,april.apple@hotmail.com
+William Orange,123 456 7890,william@ymail.com
